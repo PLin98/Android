@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.rin.myapplication">
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher" android:label="美文"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".welcome.welcome">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".login.zhuce"
+                   android:label="注册"
+                   android:parentActivityName=".login.login">
+        </activity>
+        <activity android:name=".login.xiugai"
+                   android:label="修改信息"
+                   >
+        </activity>
+        <activity android:name=".login.dengluhou"
+            android:label="登录后"
+            android:parentActivityName=".login.login">
+        </activity>
+        <activity android:name=".login.zhaohuiimima"
+            android:label="找回密码"
+            android:parentActivityName=".login.login">
+        </activity>
+        <activity android:name=".login.password"
+            android:label="修改密码"
+            >
+        </activity>
+        <activity android:name=".login.login"
+            android:label="登录"
+            android:parentActivityName=".first.home">
+        </activity>
+        <activity android:name=".first.home"
+            android:label="首页">
+        </activity>
+        <activity android:name=".guidepage.MainActivity"
+            android:label="引导页"></activity>
+        <activity android:name=".article.addarticle"
+            android:label="添加文章"
+            ></activity>
+        <activity android:name=".article.displayarticle"
+            android:label="我的文章"></activity>
+        <activity android:name=".article.displaydetail"
+            android:label="文章详情"></activity>
+        <activity android:name=".notes.noteadd"
+            android:label="添加随手记"></activity>
+        <activity android:name=".notes.notedisplay"
+            android:label="随手记"></activity>
+        <activity android:name=".notes.notequery"
+            android:label="查看随手记"></activity>
+        <activity android:name=".article.updatearticle"
+            android:label="修改文章"></activity>
+        <activity android:name=".article.queryarticle"
+            android:label="查询文章"></activity>
+        <activity android:name=".article.displaydetail0"
+            android:label="查询文章"></activity>
+    </application>
+</manifest>

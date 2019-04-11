@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1">
+        <TextView
+            android:layout_margin="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="学号："/>
+        <TextView
+            android:layout_margin="5dp"
+            android:id="@+id/student_no"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1010101"/>
+    </LinearLayout>
+    <TextView
+        android:layout_margin="5dp"
+        android:id="@+id/choose_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="选课时间"/>
+
+
+</LinearLayout>

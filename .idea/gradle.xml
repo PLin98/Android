@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AsyncTask" />
+            <option value="$PROJECT_DIR$/Chooseteacher" />
+            <option value="$PROJECT_DIR$/Handler" />
+            <option value="$PROJECT_DIR$/HandlerBar" />
+            <option value="$PROJECT_DIR$/HandlerProgressBar" />
+            <option value="$PROJECT_DIR$/JsonDemo" />
+            <option value="$PROJECT_DIR$/LoadPicture" />
+            <option value="$PROJECT_DIR$/OkHttp" />
+            <option value="$PROJECT_DIR$/Socket" />
+            <option value="$PROJECT_DIR$/WeatherJson" />
+            <option value="$PROJECT_DIR$/XMLAnalysis" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/broadcast" />
+            <option value="$PROJECT_DIR$/coolweather" />
+            <option value="$PROJECT_DIR$/service" />
+            <option value="$PROJECT_DIR$/weather" />
+            <option value="$PROJECT_DIR$/wifi" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

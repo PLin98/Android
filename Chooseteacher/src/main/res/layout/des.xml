@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:textSize="20sp"
+        android:layout_margin="5dp"
+        android:id="@+id/course_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="MySQL数据库"
+        />
+    <TextView
+        android:layout_margin="5dp"
+        android:id="@+id/course_no"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="课程号:1"/>
+    <TextView
+        android:layout_margin="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="描述："/>
+    <TextView
+        android:layout_margin="5dp"
+        android:id="@+id/description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="还是反抗撒旦发贺卡的身份获得积分回馈但是恢复速度加快复合时空打击阿富汗可是大家返回"/>
+    <TextView
+        android:layout_margin="5dp"
+        android:id="@+id/status"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="状态：已审核"/>
+    <TextView
+        android:id="@+id/xianshi"
+        android:layout_margin="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="选课学生："/>
+    <ListView
+        android:id="@+id/list_stu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp">
+    </ListView>
+</LinearLayout>

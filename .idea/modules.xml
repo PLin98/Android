@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AsyncTask/AsyncTask.iml" filepath="$PROJECT_DIR$/AsyncTask/AsyncTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chooseteacher/Chooseteacher.iml" filepath="$PROJECT_DIR$/Chooseteacher/Chooseteacher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Handler/Handler.iml" filepath="$PROJECT_DIR$/Handler/Handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HandlerBar/HandlerBar.iml" filepath="$PROJECT_DIR$/HandlerBar/HandlerBar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HandlerProgressBar/HandlerProgressBar.iml" filepath="$PROJECT_DIR$/HandlerProgressBar/HandlerProgressBar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JsonDemo/JsonDemo.iml" filepath="$PROJECT_DIR$/JsonDemo/JsonDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoadPicture/LoadPicture.iml" filepath="$PROJECT_DIR$/LoadPicture/LoadPicture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication3.iml" filepath="$PROJECT_DIR$/MyApplication3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OkHttp/OkHttp.iml" filepath="$PROJECT_DIR$/OkHttp/OkHttp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Socket/Socket.iml" filepath="$PROJECT_DIR$/Socket/Socket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weather/Weather.iml" filepath="$PROJECT_DIR$/weather/Weather.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WeatherJson/WeatherJson.iml" filepath="$PROJECT_DIR$/WeatherJson/WeatherJson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/XMLAnalysis/XMLAnalysis.iml" filepath="$PROJECT_DIR$/XMLAnalysis/XMLAnalysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/broadcast/broadcast.iml" filepath="$PROJECT_DIR$/broadcast/broadcast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coolweather/coolweather.iml" filepath="$PROJECT_DIR$/coolweather/coolweather.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service.iml" filepath="$PROJECT_DIR$/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wifi/wifi.iml" filepath="$PROJECT_DIR$/wifi/wifi.iml" />
+    </modules>
+  </component>
+</project>
